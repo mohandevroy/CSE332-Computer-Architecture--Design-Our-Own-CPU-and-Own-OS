@@ -1,0 +1,131 @@
+E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/sl2.v {1 {vlog -work work -stats=none E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/sl2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module slt2
+
+Top level modules:
+	slt2
+
+} {} {}} E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/control.v {1 {vlog -work work -stats=none E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Controlunit
+
+Top level modules:
+	Controlunit
+
+} {} {}} E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/decoder4.v {1 {vlog -work work -stats=none E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/decoder4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decoder4
+
+Top level modules:
+	decoder4
+
+} {} {}} E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/regfile32.v {1 {vlog -work work -stats=none E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/regfile32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module registerfile32
+
+Top level modules:
+	registerfile32
+
+} {} {}} E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/mux2.v {1 {vlog -work work -stats=none E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/mux2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/rom.v {1 {vlog -work work -stats=none E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/rom.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/MIPS_SCP.v {1 {vlog -work work -stats=none E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/MIPS_SCP.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder
+-- Compiling module FA
+-- Compiling module alu32
+-- Compiling module flopr_param
+-- Compiling module mux2
+-- Compiling module mux4
+-- Compiling module registerfile32
+-- Compiling module signext
+-- Compiling module slt2
+-- Compiling module Datapath
+-- Compiling module ram
+-- Compiling module rom
+-- Compiling module Controlunit
+-- Compiling module MIPS_SCP
+
+Top level modules:
+	mux4
+	MIPS_SCP
+
+} {} {}} E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/mux4.v {1 {vlog -work work -stats=none E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/mux4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/datapath.v {1 {vlog -work work -stats=none E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder
+-- Compiling module FA
+-- Compiling module alu32
+-- Compiling module flopr_param
+-- Compiling module mux2
+-- Compiling module mux4
+-- Compiling module registerfile32
+-- Compiling module signext
+-- Compiling module slt2
+-- Compiling module Datapath
+
+Top level modules:
+	mux4
+	Datapath
+
+} {} {}} E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/adder.v {1 {vlog -work work -stats=none E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder
+-- Compiling module FA
+
+Top level modules:
+	adder
+
+} {} {}} E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/ram.v {1 {vlog -work work -stats=none E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/ram.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/signext.v {1 {vlog -work work -stats=none E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/signext.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module signext
+
+Top level modules:
+	signext
+
+} {} {}} E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/flopr_param.v {1 {vlog -work work -stats=none E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/flopr_param.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module flopr_param
+
+Top level modules:
+	flopr_param
+
+} {} {}} E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/MIPS_SCP_tb.v {1 {vlog -work work -stats=none E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/MIPS_SCP_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MIPS_SCP_tb
+
+Top level modules:
+	MIPS_SCP_tb
+
+} {} {}} E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/alu32.v {1 {vlog -work work -stats=none E:/Group_7_CSE332_5_Project/Root/MIPSVerilogWOJAL/alu32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module alu32
+
+Top level modules:
+	alu32
+
+} {} {}}

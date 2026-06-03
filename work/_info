@@ -1,0 +1,351 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/CSE332_Final_project
+vadder
+Z0 !s110 1766576952
+!i10b 1
+!s100 HARc]ImKnf;JGdXZ^o^:F3
+IKmIj=<4C3OzZZZFREmkPQ2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/Group_4_CSE332_Project_FALL2025
+Z3 w1766336035
+Z4 8adder.v
+Z5 Fadder.v
+L0 6
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1766576951.000000
+Z8 !s107 control.v|rom.v|ram.v|sl2.v|signext.v|regfile32.v|mux4.v|mux2.v|flopr_param.v|alu32.v|adder.v|datapath.v|E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+valu32
+R0
+!i10b 1
+!s100 TJELNDiE?9dfNH0Tg@Sek2
+I`Lo81FkiTd1kbOkAR5]ic1
+R1
+R2
+R3
+8alu32.v
+Falu32.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vControlunit
+R0
+!i10b 1
+!s100 iVRXIlKAA`836bekj2M3h2
+I1NSVR@;BQj?VnHFYLW[`H1
+R1
+R2
+R3
+8control.v
+Fcontrol.v
+L0 7
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@controlunit
+vDatapath
+R0
+!i10b 1
+!s100 Z]bX6k]262jWl]EY69k:k3
+I10[a7bleLPghbX[;l<Boc0
+R1
+R2
+R3
+8datapath.v
+Fdatapath.v
+L0 12
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@datapath
+vdecoder4
+!s110 1766576951
+!i10b 1
+!s100 bNeF91ID[G2fgYClKY1l32
+IB=BkD7PKDK?W?4LBY91ke2
+R1
+R2
+R3
+8E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/decoder4.v
+FE:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/decoder4.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+!s107 E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/decoder4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/decoder4.v|
+!i113 1
+R10
+R11
+vFA
+R0
+!i10b 1
+!s100 ?eW]BK9f]@M=:>;Zf>kce0
+IESQ8k95@P8m2]f_]FL5O80
+R1
+R2
+R3
+R4
+R5
+L0 23
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@f@a
+vflopr_param
+R0
+!i10b 1
+!s100 `J1W;0j7KlL`4eZ8XZdT63
+I?V_OdgnQaIN<9mU0^cIQW3
+R1
+R2
+R3
+8flopr_param.v
+Fflopr_param.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vMIPS_SCP
+R0
+!i10b 1
+!s100 HkknFGm`1]nKLK<2^ZkYB0
+INcjVKD^5^SRZV7W=QN6aG3
+R1
+R2
+R3
+8E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP.v
+FE:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP.v
+L0 8
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@m@i@p@s_@s@c@p
+vMIPS_SCP_tb
+R0
+!i10b 1
+!s100 Jh>Nd_SW?bF=OiE_k?lcZ3
+IMIMGASVV25IXzVGafMlPc3
+R1
+R2
+w1766576197
+8E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP_tb.v
+FE:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP_tb.v
+L0 15
+R6
+r1
+!s85 0
+31
+Z12 !s108 1766576952.000000
+!s107 E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP_tb.v|
+!i113 1
+R10
+R11
+n@m@i@p@s_@s@c@p_tb
+vmux2
+R0
+!i10b 1
+!s100 ;7K:j1X=Fe>cP:fILlc4?3
+IiA8>da4FUZK:_4iRMfEbA3
+R1
+R2
+R3
+8E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/mux2.v
+FE:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/mux2.v
+L0 6
+R6
+r1
+!s85 0
+31
+R12
+!s107 E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/mux2.v|
+!i113 1
+R10
+R11
+vmux4
+Z13 !s110 1766576953
+!i10b 1
+!s100 Fo6?c[gi_n9Y>h:ml=V4R2
+IYb`CR3PBR5oEB>f2nFEF63
+R1
+R2
+R3
+8E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/mux4.v
+FE:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/mux4.v
+L0 6
+R6
+r1
+!s85 0
+31
+Z14 !s108 1766576953.000000
+!s107 E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/mux4.v|
+!i113 1
+R10
+R11
+vram
+R13
+!i10b 1
+!s100 :>4gI61I?IKdkmHQz[8942
+I5[YbibJnJ8L[fXb]B;N5J3
+R1
+R2
+R3
+8E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/ram.v
+FE:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/ram.v
+L0 5
+R6
+r1
+!s85 0
+31
+R14
+!s107 E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/ram.v|
+!i113 1
+R10
+R11
+vregisterfile32
+R13
+!i10b 1
+!s100 7lF>]AK:a7LW0Mnk><08g1
+IAEi3fceQRE1<5>mSiE6YQ1
+R1
+R2
+R3
+8E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/regfile32.v
+FE:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/regfile32.v
+L0 6
+R6
+r1
+!s85 0
+31
+R14
+!s107 E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/regfile32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/regfile32.v|
+!i113 1
+R10
+R11
+vrom
+Z15 !s110 1766576954
+!i10b 1
+!s100 ;7l5EBdQZVZBP6c>TeF0l0
+Iz=a2@JQVKHDPcaI9@zURM3
+R1
+R2
+R3
+8E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/rom.v
+FE:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/rom.v
+L0 6
+R6
+r1
+!s85 0
+31
+R14
+!s107 E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/rom.v|
+!i113 1
+R10
+R11
+vsignext
+R15
+!i10b 1
+!s100 :5S[_93jC6V6XS:]:1We;1
+I]Tm?7U]53[B33z^7jGLc]0
+R1
+R2
+R3
+8E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/signext.v
+FE:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/signext.v
+L0 6
+R6
+r1
+!s85 0
+31
+Z16 !s108 1766576954.000000
+!s107 E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/signext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/signext.v|
+!i113 1
+R10
+R11
+vslt2
+R15
+!i10b 1
+!s100 IzVbP]4L>RXZhMRjF0^@Q2
+I2982D6CoBUYjYD3delZR03
+R1
+R2
+R3
+8E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/sl2.v
+FE:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/sl2.v
+L0 6
+R6
+r1
+!s85 0
+31
+R16
+!s107 E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/sl2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Group_4_CSE332_Project_FALL2025/Root/Project 2 - Checking MIN_MAX_MEAN/sl2.v|
+!i113 1
+R10
+R11
